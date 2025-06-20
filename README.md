@@ -3,5 +3,8 @@
 ---
 
 This is walkthrough demonstrates the basic build to host website on the cloud specifically in the AWS system.
-Steps taken are as follows:
-Establish and select Region
+## Steps taken are as follows:
+- Establish and select Region
+- Launch an EC2 instance
+  - Set Key pair
+  - 
